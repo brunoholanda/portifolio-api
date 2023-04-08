@@ -2,7 +2,7 @@
 [
     {
         "id": 1,
-        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/04/cursostech.png",
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/04/cursostech-e1680987368994.png",
         "titulo": "Cursos Tech BR",
         "descricao": "Website fictício para um programa do Ministério da Educação responsivo e que faz o mapeamento de faculdades com cursos de tecnologia que existem no Brasil. Possui tela sistema de login e funcionalidades de pesquisa funcionais...",
         "stacks": "React, JavaScript, SASS, html",
