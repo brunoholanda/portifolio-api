@@ -59,26 +59,6 @@
         "stacks": "Wordpress",
         "deploy": "https://nerdking.net.br/",
         "repositorio": ""
-    },
-    {
-        "id": 7,
-        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/04/alurageek.png",
-        "titulo": "AluraGeek",
-        "resumo": "Alura Geek é um marketplace fictício que reúne produtos Geek para compras, nesse projeto foi possível praticar UseStates do React...",
-        "post": "O Alura Geek é um marketplace fictício que foi desenvolvido com o objetivo de reunir produtos relacionados ao universo Geek para compras online. Esse tipo de plataforma é muito interessante para os fãs de cultura pop e tecnologia, já que oferece uma ampla variedade de produtos. \n\n Para tornar a plataforma mais atraente e funcional, foi utilizado o React, uma biblioteca JavaScript muito popular para o desenvolvimento de interfaces de usuário. Com o React, foi possível implementar diversas funcionalidades interessantes no Alura Geek, como por exemplo, o uso de UseStates. \n\n Os UseStates são um recurso do React que permite a criação de variáveis de estado que podem ser modificadas ao longo do tempo. Eles são muito úteis para implementar funcionalidades dinâmicas em um site, como a atualização de informações em tempo real, ou a alteração de cores e imagens ao passar o mouse sobre um produto, por exemplo. \n\n Por fim, é importante destacar que a utilização do React no projeto do Alura Geek possibilitou um desenvolvimento mais ágil e eficiente, já que a biblioteca simplifica muitas das tarefas complexas envolvidas na criação de uma plataforma de comércio eletrônico. Isso permitiu que os desenvolvedores do projeto pudessem se concentrar mais na criação de um design atraente e uma interface de usuário intuitiva, garantindo uma experiência de compra agradável para os usuários. \n\n ### O que aprendi? \n\n Meu maior aprendizado neste projeto foi referente a pratica do Javascript no react, fazer essa funcionalidade de adicionar novos produtos, mesmo não sendo a primeira vez  que desenvolvi esse tipo de funcionalidade, não foi fácil, mas entendi que trata-se de algo que pode ser implementado em várias aplicações. \n\n ### Tecnologias utilizadas: \n\n ReactJS • JavaScript • HTML • SASS • Git \n\n ### Como usar? \n\n [Entre na Página]( https://alura-geek-react-n25q.vercel.app/)  \n\n Clique em -Ver todos os Produtos- \n\n Clicar no Botão 'Adicionar produtos'",
-        "stacks": "React, JavaScript, SASS, html",
-        "deploy": "https://alura-geek-react-n25q.vercel.app/",
-        "repositorio": "https://github.com/brunoholanda/AluraGeek-REACT"
-    },
-    {
-        "id": 8,
-        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/04/barbearia.png",
-        "titulo": "Vieira Barbearia",
-        "resumo": "Site para barbearia do bairro, a qual corto cabelo. O link do site fica nas redes sociais da empresa e tem a função de conectar clientes que...",
-        "post": "    empresa e tem a função de conectar clientes que procuram os serviços da barbearia . Além disso, o site oferece informações sobre os serviços prestados, horários de funcionamento, preços e promoções especiais. \n\n No caso da barbearia em questão, o site tem a importante função de conectar os clientes com a empresa, permitindo que eles conheçam melhor os serviços oferecidos e possam agendar horários para cortes de cabelo, barba e outros serviços de beleza. É importante que o site seja de fácil acesso e navegabilidade, com um design atraente e responsivo para que possa ser acessado tanto em desktops quanto em dispositivos móveis. \n\n  ### O que aprendi? \n\n Desenvolvimento Mobile First, criação de um Menu hambúrguer do zero, Carrossel de fotos com JavaScript e Incorporação com WhatsApp \n\n ### Tecnologias utilizadas: \n\n HTML • JavaScript • HTML • CSS • Git \n\n ### Como usar? \n\n Trata-se de uma landing Page intuitiva e você pode acessar seu Deploy  [Clicando aqui]( https://vieira-barbearia-job-95e3.vercel.app/)",
-        "stacks": "JavaScript, CSS, html",
-        "deploy": "https://vieira-barbearia-job-95e3.vercel.app/",
-        "repositorio": "https://github.com/brunoholanda/VieiraBarbearia-JOB"
     }
 ]
 }
