@@ -79,16 +79,6 @@
         "stacks": "JavaScript, CSS, html",
         "deploy": "https://vieira-barbearia-job-95e3.vercel.app/",
         "repositorio": "https://github.com/brunoholanda/VieiraBarbearia-JOB"
-    },
-    {
-        "id": 9,
-        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/04/nkcine.png",
-        "titulo": "NerdKing Tag",
-        "resumo": "Website para adicionar aos favoritos os vídeos que o usuário mais gostar no youtube do NerdKing, feito para praticar useStates, e aprender a criar uma API fake",
-        "post": "",
-        "stacks": "JavaScript, CSS, html",
-        "deploy": "https://nktag-react-i64j.vercel.app/",
-        "repositorio": "https://github.com/brunoholanda/nktag-react"
     }
 ]
 }
